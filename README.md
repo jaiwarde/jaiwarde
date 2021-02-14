@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Jai Warde
-- 👀 I’m Data Analytics enthusiast
-- 📫 I’m currently pursuing Masters in Artificial Intelligence from Dublin City University
+- 👋 Hi There
+- 👀 Data Analytics enthusiast and learner
+- 📫 Currently pursuing Masters in Artificial Intelligence from Dublin City University
 
 <!---
 jaiwarde/jaiwarde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
