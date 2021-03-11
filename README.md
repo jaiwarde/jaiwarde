@@ -1,7 +1,13 @@
 ## Hello folks!!!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 
 
-I'm Jai Warde, currently pursuing MSc. in Artificial Intelligence :computer: from Dublin City University and I am passionate about learning new upcoming technologies.I have experience building scalable Machine learning models and Artificial Intelligence algorithms. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: in my free time.
+I'm Jai Warde, currently pursuing MSc. in Artificial Intelligence 🖥️ from Dublin City University and I am passionate about learning new upcoming technologies.I have experience building scalable Machine learning models and Artificial Intelligence algorithms. Beside's programming, I enjoy playing badminton:badminton:, travelling:earth_americas: in my free time.
 
+### ⚡ Technologies and Skillset
+- Programming 💻: Python -3, R Programming.
+- ML/AI Techniques 📈: Regression, Classification, Clustering, NLP, Image Recognition.  
+- Databases 🗒️: SQL server, Google Cloud SQL, Hive.
+- Cloud Technologies ☁️: Google Cloud Platform, Azure.
+- Tools 🔧: Familiar with RStudio, Jupyter, Tableau, Power BI, SQL Server, SSIS, GCP, Azure.
 
 ###  📫 Reach Out to me on:
 
